@@ -1,0 +1,100 @@
+=== Run 1 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 43.349 ms
+E2E: 165.003 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 2 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 35.737 ms
+E2E: 156.204 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 3 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 36.784 ms
+E2E: 156.745 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 4 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 34.528 ms
+E2E: 154.769 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 5 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 34.863 ms
+E2E: 155.119 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 6 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 34.651 ms
+E2E: 148.819 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 7 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 35.552 ms
+E2E: 151.726 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 8 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 35.760 ms
+E2E: 150.430 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 9 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 35.115 ms
+E2E: 147.657 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79
+=== Run 10 ===
+大模型推理服务是一种基于人工智能技术的新型计算模式，它通过深度学习和大规模预训练模型来处理复杂、多变的数据，并提供智能预测、决策支持等服务。
+
+Received [DONE]
+HTTP response fully consumed
+TTFT: 33.629 ms
+E2E: 148.453 ms
+Prompt tokens: 39
+Completion tokens: 40
+Total tokens: 79

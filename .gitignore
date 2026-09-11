@@ -1,0 +1,25 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Runtime logs
+*.log
+
+# Local configuration
+.env
+.vscode/
+.idea/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Large installation packages
+*.whl
+
+# Personal interview notes
+INTERVIEW_NOTES.md
